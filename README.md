@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pulkit Goyal</h1>
 <h3 align="center">A passionate tech geek from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pulkit-goyal11" alt="pulkit-goyal11" /></a> </p>
-
+<p align="left">
 - 🔭 I’m currently working on **Building a website with ML integrated**
 
 - 🌱 I’m currently learning **Javascript,ML,AI,Full stack Web Development**
@@ -13,7 +12,7 @@
 - 📫 How to reach me **gpulkit2020@gmail.com**
 
 - ⚡ Fun fact **I love to know about Psychology and have some weird theories to share**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pulkitgoya65076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulkitgoya65076" height="30" width="40" /></a>
